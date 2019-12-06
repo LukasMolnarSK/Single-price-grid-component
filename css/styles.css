@@ -92,7 +92,7 @@ bottom: 65px;
 }
 
 .btn {
-  position: relative;
+  position: absolute;
   bottom: 40px;
   left:125px;
 	background-color:#0afa4a;
