@@ -1,0 +1,116 @@
+body{
+  font-family: 'Nunito', sans-serif;
+  margin:auto;
+}
+
+h1{
+  color:#1fab89;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+h2{
+color: #ffffff;
+margin-left: 100px;
+}
+p{
+  color: #ffffff;
+  margin-left: 100px;
+  margin-top: 50px;
+  line-height: 1.75;
+}
+.top-container{
+  background-color: #d7fbe8;
+  width: 1000px;
+  height: 300px;
+  margin: 50px 50px 50px 0;
+  position: absolute;
+  left:100px;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  box-shadow: 7px 6px 5px #211717;
+
+}
+
+.back{
+  color: #8df902
+}
+.bottomc{
+  color: #bfbaba;
+  width: 50%;
+  position: relative;
+  bottom: 15px;
+
+}
+
+.bottom-left{
+background-color: #1fab89;
+width: 500px;
+height:300px;
+margin: auto;
+position: absolute;
+top:350px;
+left: 100px;
+bottom: 50px;
+border-bottom-left-radius: 7px;
+box-shadow: 7px 6px 5px #211717;
+}
+
+.fulla{
+  position: relative;
+bottom: 65px;
+}
+.price{
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.per-month{
+  color: #bfbaba;
+  position: relative;
+  bottom: 6px;
+  left:10px;
+}
+.bottom-right{
+  background-color: #62d2a2;
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  position: absolute;
+  top:350px;
+  left:600px;
+  bottom: 50px;
+  border-bottom-right-radius: 7px;
+  box-shadow: 7px 6px 5px #211717;
+}
+.list{
+  color: #ffffff;
+  list-style-type: none;
+  line-height: 1.75;
+  position: relative;
+  left: 60px;
+}
+
+.btn {
+  position: relative;
+  bottom: 40px;
+  left:125px;
+	background-color:#0afa4a;
+	border-radius:7px;
+	border:1px solid #4ced5c;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:12px 76px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #79eb67;
+}
+.btn:hover {
+	background-color:#92fa5a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
